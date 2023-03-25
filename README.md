@@ -1,2 +1,2 @@
-# taisural-quran-privacy-policy
+# taisural-quran
 Privacy policy for taisural quran app
